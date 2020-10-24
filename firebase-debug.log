@@ -1,0 +1,28 @@
+[debug] [2020-10-24T11:40:43.981Z] ----------------------------------------------------------------------
+[debug] [2020-10-24T11:40:43.989Z] Command:       C:\laragon\bin\nodejs\node-v12\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-10-24T11:40:43.991Z] CLI Version:   8.12.1
+[debug] [2020-10-24T11:40:43.992Z] Platform:      win32
+[debug] [2020-10-24T11:40:43.992Z] Node Version:  v12.5.0
+[debug] [2020-10-24T11:40:43.994Z] Time:          Sat Oct 24 2020 18:40:43 GMT+0700 (Indochina Time)
+[debug] [2020-10-24T11:40:43.995Z] ----------------------------------------------------------------------
+[debug] [2020-10-24T11:40:43.995Z] 
+[debug] [2020-10-24T11:40:44.021Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-24T11:40:44.023Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\user\Desktop\projects\[ react-clone-apps\tinder-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
