@@ -30,10 +30,11 @@ function TinderCards() {
               </div>
             </TinderCard>
           ))}
+          <h3>Ooops.. No more swipes</h3>
         </div>
       ) : (
         <div className="tinderCard__loading">
-          <h2>Wait a sec...</h2>
+          <h3>Wait a sec...</h3>
         </div>
       )}
     </div>

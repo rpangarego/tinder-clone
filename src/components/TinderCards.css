@@ -23,12 +23,14 @@
   margin-top: 5vh;
 }
 
-.swipe {
-  position: absolute;
+.tinderCard__container > h3,
+.tinderCard__loading > h3 {
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
 }
 
-.tinderCard__loading {
-  text-align: center;
-  font-size: 15px;
-  font-weight: 400;
+.swipe {
+  position: absolute;
 }
